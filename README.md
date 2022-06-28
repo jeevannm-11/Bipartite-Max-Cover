@@ -1,4 +1,4 @@
-# Max-Bipartite-Cover
+# Bipartite-Max-Cover
 
 Bipartite Graph: A bipartite graph is an undirected graph in which the n vertices can be partitioned into two sets, 
 such that no edges in the graph connects two vertices of same set.
