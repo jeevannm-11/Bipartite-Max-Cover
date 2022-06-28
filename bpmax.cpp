@@ -45,7 +45,6 @@ int maximumMatching(bool**graph,int n) {
 	return t;
 }
 
-// main code
 int main()
 {
     cout<<"Enter the number of vertices\n";
