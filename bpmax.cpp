@@ -59,8 +59,6 @@ int main()
         for(int j=0;j<n;j++)
         cin>>graph[i][j];
 	}
-
-
 	cout << "The maximum cover possible is:"<< maximumMatching(graph,n)/2<<endl;
 
 	return 0;
